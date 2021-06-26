@@ -1,0 +1,48 @@
+
+0
+
+IMIMIM pics/tunnel.png
+You are in a long dark tunnel. Suddenly you see a distant light.
+What are you going to do?
+
+    1 Go into the light.
+    
+    2 Go into opposite direction.
+    
+    3 Stay where you are.
+    
+    
+1
+
+The closer you get, the brigther the light.
+
+    4 Keep going.
+    
+    2 Go back
+    
+    
+2
+
+You stumbled in the darkness and fell into a puddle. Now your clothes are ruined.
+
+game over
+ENDENDEND
+
+    0 Try again?
+    
+
+3
+
+You wait for a few minutes but it gets boring and you can't take it anymore. What should you do?
+
+    1 Go into the light.
+    
+    2 Go into opposite direction.
+    
+    
+4
+
+It was a train! Cool. You like trains.
+WINWINWIN
+
+    0 Play again? 
